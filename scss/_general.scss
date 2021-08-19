@@ -1,0 +1,23 @@
+*,
+*::before,
+*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Inter', 'Arial', sans-serif;
+}
+
+h1,h2{
+    font-family: 'Roboto', 'Arial', sans-serif;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,115 @@
+.section-2 {
+    margin-bottom: 137px;
+    &__box-first {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background: #F3F4F4;
+        border-radius: 8px;
+        padding-top: 65px;
+        width: 1264px;
+        height: 637px;
+    }
+
+    &__box-second {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background: #F3F4F4;
+        border-radius: 8px;
+        padding-top: 65px;
+        width: 1264px;
+        height: 679px;
+    }
+
+    &__title-1 {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 36px;
+        line-height: 47px;
+        text-align: center;
+        letter-spacing: 0.216px;
+        color: #000000;
+        width: 476px;
+        margin-bottom: 65px;
+    }
+
+    &__box-2 {
+        margin-top: 24px;
+        margin-bottom: 25px;
+        display: flex;
+    }
+
+    &__box-mini {
+        background: #F3F4F4;
+        border-radius: 8px;
+        width: 620px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-right: 24px;
+    }
+
+    &__title-2 {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 36px;
+        line-height: 47px;
+        text-align: center;
+        letter-spacing: 0.216px;
+        color: #000000;
+        margin-top: 63px;
+        margin-bottom: 17px;
+        width: 322px;
+    }
+
+    &__text {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 29px;
+        text-align: center;
+        color: #46474E;
+        width: 432px;
+        margin-bottom: 88px;
+    }
+
+    &__connect {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 11px;
+        line-height: 29px;
+        text-align: center;
+        color: #46474E;
+        width: 429px;
+        margin-bottom: 35px;
+    }
+
+    &__custom {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 36px;
+        line-height: 47px;
+        text-align: center;
+        letter-spacing: 0.216px;
+        color: #000000;
+        width: 238px;
+        margin-bottom: 31px;
+        margin-top: 65px;
+    }
+
+    &__community {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 36px;
+        line-height: 47px;
+        text-align: center;
+        letter-spacing: 0.216px;
+        color: #000000;
+        width: 416px;
+        margin-bottom: 37px;
+        margin-top: 65px;
+    }
+}
