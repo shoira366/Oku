@@ -691,7 +691,6 @@ a {
   font-weight: normal;
   font-size: 14px;
   line-height: 17px;
-  color: #131314;
   margin-right: 24px;
 }
 
@@ -701,6 +700,10 @@ a {
 
 .footer__list--item:last-child {
   margin-left: 570px;
+}
+
+.footer__list--link {
+  color: #131314;
 }
 
 .footer__list--text {
