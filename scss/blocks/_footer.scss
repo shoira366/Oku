@@ -74,7 +74,7 @@
             font-weight: normal;
             font-size: 14px;
             line-height: 17px;
-            color: #131314;
+           
             margin-right: 24px;
         }
 
@@ -84,6 +84,10 @@
 
         &--item:last-child {
             margin-left: 570px;
+        }
+
+        &--link{
+             color: #131314;
         }
 
         &--text {
